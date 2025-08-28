@@ -56,7 +56,7 @@ The project was implemented in **Python**. The main steps followed were:
 - Line charts depicting temperature variations over time.  
 - Scatter plots for analyzing relationships between humidity and temperature.  
 
-*(Screenshots of these graphs can be added here once saved.)*  
+*<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/2a7ba61d-1aa6-4e79-a087-0857cf47f55c" />*  
 
 ---
 
